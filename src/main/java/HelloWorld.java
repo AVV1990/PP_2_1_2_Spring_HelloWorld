@@ -1,6 +1,5 @@
 public class HelloWorld {
-    // задача
- 
+
     private String message;
  
     public String getMessage() {
